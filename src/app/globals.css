@@ -111,3 +111,13 @@ button:hover {
         padding: 0 2.6rem;
     }
 }
+
+.movies-api-image {
+    width: 260px;
+    height: 200px;
+}
+
+.hero-image {
+    width: auto;
+    height: auto;
+}

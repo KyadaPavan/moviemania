@@ -15,6 +15,7 @@ const Moviecard = (curElem) => {
             alt={title}
             width={260}
             height={200}
+            className="movies-api-image"
           />
         </div>
         <div className={styles.card_data}>

@@ -30,7 +30,7 @@ const Herosection = ({ title, imageUrl }) => {
                     </div>
 
                     <div className={heroStyles.hero_image}>
-                        <Image src={imageUrl} alt="watching netflix" width={500} height={500} />
+                        <Image src={imageUrl} alt="watching netflix" width={500} height={500} className="hero-image" />
                     </div>
                 </div>
             </div>
