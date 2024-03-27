@@ -18,7 +18,7 @@ const Herosection = ({ title, imageUrl }) => {
                 <div className={styles.grid_two_section}>
                     <div className={heroStyles.hero_content}>
                         <h1>{title}</h1>
-                        <p> From award-winning dramas to blockbuster action movies, we&apos;ve got you covered. Browse
+                        <p> From award-winning dramas to blockbuster action movies, we have got you covered. Browse
                             our
                             selection of the latest and greatest movies, and find your new favorite today.
                         </p>
